@@ -4,3 +4,4 @@ boto3-stubs[s3]
 tqdm
 moto
 pytest
+google-cloud-storage
